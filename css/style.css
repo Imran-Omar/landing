@@ -1,0 +1,32 @@
+
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/card.css");
+
+body {
+	background-color: #ffffff;
+    font-family: 'Raleway', sans-serif;    
+    color: white;
+    line-height: 1.8;
+    margin: 0px;
+}
+
+h1, h2, h3 {
+	color: black;
+}
+
+p {
+	color:black;
+}
+
+a {
+	text-decoration: none;
+}
+
+.fa-hourglass-half {
+	color:black;
+	margin: 90px auto 0px auto;
+	font-size: 100px;
+}
